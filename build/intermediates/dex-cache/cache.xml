@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/jonathanherman/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/2.0.1/516c03b21d50a644d538de0f0369c620989cd8f0/jsr305-2.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="/Users/jonathanherman/Desktop/IoT/Smartwatch/app/build/intermediates/transforms/dex/debug/folders/1000/10/jsr305-2.0.1_757aa4a30afbef21116cc174e5ac9e64b99b366f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonathanherman/.android/build-cache/9b75f7c775a194aa3be4bfeedc40c8c9d7474b9f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/jonathanherman/Desktop/IoT/Smartwatch/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_68b83f7cd75dacac840ecd89e087ffdcea93edd8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonathanherman/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client/1.22.0/d441fc58329c4a4c067acec04ac361627f66ecc8/google-http-client-1.22.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d441fc58329c4a4c067acec04ac361627f66ecc8">
+        <dex dex="/Users/jonathanherman/Desktop/IoT/Smartwatch/app/build/intermediates/transforms/dex/debug/folders/1000/10/google-http-client-1.22.0_07efca229bba1608f35698e0b7abd10ce3aa2aa9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonathanherman/.android/build-cache/50f4e6998d0ef7374f7685ea8b5eb9ce2d4e8854/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/jonathanherman/Desktop/IoT/Smartwatch/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_50d47dc74dac3a2a9fdf922a26ed9c0edfd78d6f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonathanherman/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/jonathanherman/Desktop/IoT/Smartwatch/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_54f73fde30c21497dd2299b41db73330bc3da287/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonathanherman/.android/build-cache/a39c550e8a77510d0e65662dc255b58c90ed987f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/jonathanherman/Desktop/IoT/Smartwatch/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d50f8a365cba0b826b330c9896464b250e6eace6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonathanherman/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.1.3/f6c3aed1cdfa21b5c1737c915186ea93a95a58bd/jackson-core-2.1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="/Users/jonathanherman/Desktop/IoT/Smartwatch/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-core-2.1.3_bdcf4873dd6abca510f2584261673d43b919deb5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonathanherman/.gradle/caches/modules-2/files-2.1/com.google.oauth-client/google-oauth-client/1.22.0/1d63f369ac78e4838a3197147012026e791008cb/google-oauth-client-1.22.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1d63f369ac78e4838a3197147012026e791008cb">
+        <dex dex="/Users/jonathanherman/Desktop/IoT/Smartwatch/app/build/intermediates/transforms/dex/debug/folders/1000/10/google-oauth-client-1.22.0_581c29327ae6968e47eadf01f91230e22484dd8d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonathanherman/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/2.5/2852e6e05fbb95076fc091f6d1780f1f8fe35e0f/commons-io-2.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2852e6e05fbb95076fc091f6d1780f1f8fe35e0f">
+        <dex dex="/Users/jonathanherman/Desktop/IoT/Smartwatch/app/build/intermediates/transforms/dex/debug/folders/1000/10/commons-io-2.5_2ef5080db2002aa08e7ed29dcf5cca92e2b82a4d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonathanherman/.gradle/caches/modules-2/files-2.1/com.google.apis/google-api-services-speech/v1beta1-rev336-1.22.0/9aa54fbe8ce85dac1f12b5cfb1f4fac6e343a590/google-api-services-speech-v1beta1-rev336-1.22.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9aa54fbe8ce85dac1f12b5cfb1f4fac6e343a590">
+        <dex dex="/Users/jonathanherman/Desktop/IoT/Smartwatch/app/build/intermediates/transforms/dex/debug/folders/1000/10/google-api-services-speech-v1beta1-rev336-1.22.0_59371de3066251bbea28847b3ab1a614604fce22/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonathanherman/.android/build-cache/5fdf0b39569a6be91e50a04957ff7b8bc425fa85/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/jonathanherman/Desktop/IoT/Smartwatch/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_62a2102337568e5c7fef59b6ace66db06e38c36d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonathanherman/.android/build-cache/061d07f8e4bdf75ac9a3f93e73163f58ffe74635/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/Users/jonathanherman/Desktop/IoT/Smartwatch/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9b38e702518f4f247ae2aeb21918762b41406aa1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonathanherman/.gradle/caches/modules-2/files-2.1/com.google.api-client/google-api-client-android/1.22.0/7a0fe12b7d8189a821934d6f9d6586d00180e461/google-api-client-android-1.22.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7a0fe12b7d8189a821934d6f9d6586d00180e461">
+        <dex dex="/Users/jonathanherman/Desktop/IoT/Smartwatch/app/build/intermediates/transforms/dex/debug/folders/1000/10/google-api-client-android-1.22.0_4cdee0eda6bdc5982c4bd18f6869f9fb5f914f32/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonathanherman/.android/build-cache/67f46245d3db52477e925ffb254ee84fe8085ec6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/Users/jonathanherman/Desktop/IoT/Smartwatch/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c32d7734c934d4ae64e0090af2af57560578a746/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonathanherman/.android/build-cache/c14c5a0dc1fc111a1a090d9777f0de3c6cf2dfe1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/jonathanherman/Desktop/IoT/Smartwatch/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4e667c8a8689fb3493e3eede520343ff98fe9d4c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonathanherman/.android/build-cache/96e9a02684c1071677dbe79f0ead2827166cf640/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/Users/jonathanherman/Desktop/IoT/Smartwatch/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0f4c49647dd35cb32d5b63f900874f79531f1ade/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonathanherman/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-jackson2/1.22.0/cc014d64ae11117e159d334c99d9c246d9b36f44/google-http-client-jackson2-1.22.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cc014d64ae11117e159d334c99d9c246d9b36f44">
+        <dex dex="/Users/jonathanherman/Desktop/IoT/Smartwatch/app/build/intermediates/transforms/dex/debug/folders/1000/10/google-http-client-jackson2-1.22.0_8887573492f04d4b78dc400c3b7d66fad59204d6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonathanherman/.android/build-cache/c8fbe0a6e65b40233cab41be969bb1b7094f0a90/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/jonathanherman/Desktop/IoT/Smartwatch/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c848af636a81188ab22c5f02e4686e29b51967a1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonathanherman/.android/build-cache/2d74b723656ed263174953c26adb052f58b07d46/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/jonathanherman/Desktop/IoT/Smartwatch/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_35f63c13af2ee705c3ab3a3a985a26295d52a0fc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonathanherman/.gradle/caches/modules-2/files-2.1/com.google.apis/google-api-services-language/v1beta2-rev6-1.22.0/3cd42bd5a2f90669b9e8ad80d0fe355ea2da0182/google-api-services-language-v1beta2-rev6-1.22.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3cd42bd5a2f90669b9e8ad80d0fe355ea2da0182">
+        <dex dex="/Users/jonathanherman/Desktop/IoT/Smartwatch/app/build/intermediates/transforms/dex/debug/folders/1000/10/google-api-services-language-v1beta2-rev6-1.22.0_2f8e3e2e9f3ab0827e74efacc238daed6d64382e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonathanherman/.android/build-cache/26ace8d02b6f1f27f6544fb87807de24e58a485f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/jonathanherman/Desktop/IoT/Smartwatch/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0fef0f6667e5827d79f1b00546e58a3112b5518e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonathanherman/.gradle/caches/modules-2/files-2.1/com.google.api-client/google-api-client/1.22.0/244350c0c845c583717ade13f5666a452fd0cfa/google-api-client-1.22.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0244350c0c845c583717ade13f5666a452fd0cfa">
+        <dex dex="/Users/jonathanherman/Desktop/IoT/Smartwatch/app/build/intermediates/transforms/dex/debug/folders/1000/10/google-api-client-1.22.0_0ed859afbdcabb8ffe5150285a3cbc81d6127e6f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonathanherman/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-android/1.22.0/6d1e1a76a16a244ab2f41775791be1dd0ec2878a/google-http-client-android-1.22.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6d1e1a76a16a244ab2f41775791be1dd0ec2878a">
+        <dex dex="/Users/jonathanherman/Desktop/IoT/Smartwatch/app/build/intermediates/transforms/dex/debug/folders/1000/10/google-http-client-android-1.22.0_78da4bcd1d93d856dfa141880d944288abebf250/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonathanherman/Desktop/IoT/Smartwatch/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/jonathanherman/Desktop/IoT/Smartwatch/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c5ae20c1e34581bd12ba153aae3ad8449de453d8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonathanherman/.android/build-cache/b4f176ca6c8455e25d7cd054df03183b079a16df/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/jonathanherman/Desktop/IoT/Smartwatch/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2923b1d7f048a912a76d276b3fffaacf0c21fe76/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonathanherman/Desktop/IoT/Smartwatch/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3a8b3cafdb2b1fdb08263fbce0f1f70b631753ad">
+        <dex dex="/Users/jonathanherman/Desktop/IoT/Smartwatch/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d4aaae01204c0481d11297d03dfbdafba2443a37/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonathanherman/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/jonathanherman/Desktop/IoT/Smartwatch/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_2638254af253411db2b1e302e5f0375c0e6fa766/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonathanherman/.android/build-cache/08d490c0286561b355e1300efcdc054b727a3a89/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/jonathanherman/Desktop/IoT/Smartwatch/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_891d5e2fcf6b091e255572c645927ce1996758d6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonathanherman/.gradle/caches/modules-2/files-2.1/com.google.guava/guava-jdk5/17.0/463f8378feba44df7ba7cd9272d01837dad62b36/guava-jdk5-17.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="463f8378feba44df7ba7cd9272d01837dad62b36">
+        <dex dex="/Users/jonathanherman/Desktop/IoT/Smartwatch/app/build/intermediates/transforms/dex/debug/folders/1000/10/guava-jdk5-17.0_f3136a7fd7ec6d04f2768203940bc6177f22bc0f/classes.dex" />
+    </item>
+
+</items>
