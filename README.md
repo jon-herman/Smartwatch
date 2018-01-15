@@ -6,7 +6,5 @@ A user can interact with the system through the onboard buttons or by speaking i
 
 <!-- ![demo snapshot](https://github.com/jon-herman/Smartwatch/blob/master/smartwatch_frame.png) -->
 
-<p style="text-align:center;">
-  <img src="https://github.com/jon-herman/Smartwatch/blob/master/smartwatch_frame.png" width="250"/>
-</p>
+<img src="https://github.com/jon-herman/Smartwatch/blob/master/smartwatch_frame.png" width="250"/>
 
