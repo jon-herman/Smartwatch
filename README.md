@@ -3,7 +3,5 @@ The Smartwatch project is an IoT watch.  The watch contains typical watch functi
 
 
 
-Reference-style: 
-![alt text][frame]
-
-[frame]: https://github.com/jon-herman/Smartwatch/blob/master/smartwatch_frame.png "Smartwatch frame"
+![demo snapshot]
+(https://github.com/jon-herman/Smartwatch/blob/master/smartwatch_frame.png)
